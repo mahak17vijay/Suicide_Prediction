@@ -110,45 +110,6 @@ The following models were implemented and compared:
 
 * * * * *
 
-📂 Project Structure
---------------------
-
-├── data/                # Dataset files\
-├── notebooks/           # Jupyter notebooks\
-├── models/              # Trained models\
-├── app.py               # Flask application\
-├── requirements.txt     # Dependencies\
-└── README.md            # Documentation
-
-* * * * *
-
-▶️ How to Run
--------------
-
-# Clone the repository\
-git clone https://github.com/your-username/suicide-rate-prediction.git
-
-# Navigate to project folder\
-cd suicide-rate-prediction
-
-# Install dependencies\
-pip install -r requirements.txt
-
-# Run the application\
-python app.py
-
-* * * * *
-
-📈 Future Enhancements
-----------------------
-
--   Web-based UI improvements
--   Real-time data integration
--   Advanced ML models (Deep Learning)
--   Integration with healthcare analytics
-
-* * * * *
-
 ⚠️ Disclaimer
 -------------
 
